@@ -1,0 +1,683 @@
+[
+  {
+    "count": "13",
+    "name": "Progressive Chapter",
+    "category": [
+      "Chapter"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Splat",
+    "category": [
+      "Character",
+      "Magic Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Big Bubble Pop Fizz",
+    "category": [
+      "Character",
+      "Magic Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Smash Hit",
+    "category": [
+      "Character",
+      "Earth Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shark Shooter Terrafin",
+    "category": [
+      "Character",
+      "Earth Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Spitfire",
+    "category": [
+      "Character",
+      "Fire Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Lava Lance Eruptor",
+    "category": [
+      "Character",
+      "Fire Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hammer Slam Bowser",
+    "category": [
+      "Character",
+      "Fire Character",
+      "Nintendo"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "High Volt",
+    "category": [
+      "Character",
+      "Tech Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Double Dare Trigger Happy",
+    "category": [
+      "Character",
+      "Tech Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Fiesta",
+    "category": [
+      "Character",
+      "Undead Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Bone Bash Roller Brawler",
+    "category": [
+      "Character",
+      "Undead Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stormblade",
+    "category": [
+      "Character",
+      "Air Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hurricane Jet-Vac",
+    "category": [
+      "Character",
+      "Air Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Thrillipede",
+    "category": [
+      "Character",
+      "Life Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Super Shot Stealth Elf",
+    "category": [
+      "Character",
+      "Life Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Turbo Charge Donkey Kong",
+    "category": [
+      "Character",
+      "Life Character",
+      "Nintendo"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Nightfall",
+    "category": [
+      "Character",
+      "Dark Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Astroblast",
+    "category": [
+      "Character",
+      "Light Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Splatter Splasher",
+    "category": [
+      "Sea Vehicle",
+      "Magic Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Soda Skimmer",
+    "category": [
+      "Sea Vehicle",
+      "Magic Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Thump Truck",
+    "category": [
+      "Land Vehicle",
+      "Earth Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shark Tank",
+    "category": [
+      "Land Vehicle",
+      "Earth Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Dive Bomber",
+    "category": [
+      "Sea Vehicle",
+      "Water Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Reef Ripper",
+    "category": [
+      "Sea Vehicle",
+      "Water Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Hot Streak",
+    "category": [
+      "Land Vehicle",
+      "Fire Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Burn Cycle",
+    "category": [
+      "Land Vehicle",
+      "Fire Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Shield Striker",
+    "category": [
+      "Land Vehicle",
+      "Tech Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Rusher",
+    "category": [
+      "Land Vehicle",
+      "Tech Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Barrel Blaster",
+    "category": [
+      "Land Vehicle",
+      "Tech Vehicle",
+      "Vehicle",
+      "Nintendo"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Crypt Crusher",
+    "category": [
+      "Land Vehicle",
+      "Undead Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Tomb Buggy",
+    "category": [
+      "Land Vehicle",
+      "Undead Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sky Slicer",
+    "category": [
+      "Air Vehiclea",
+      "Air Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Jet Stream",
+    "category": [
+      "Air Vehicle",
+      "Air Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Clown Cruiser",
+    "category": [
+      "Air Vehicle",
+      "Air Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Buzz Wing",
+    "category": [
+      "Air Vehicle",
+      "Life Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Stealth Stinger",
+    "category": [
+      "Air Vehicle",
+      "Life Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sun Runner",
+    "category": [
+      "Air Vehicle",
+      "Light Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Sea Shadow",
+    "category": [
+      "Sea Vehicle",
+      "Dark Vehicle",
+      "Vehicle"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Boomer",
+    "category": [
+      "Character",
+      "Tech Character",
+      "Eon's Elite"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Dino-Rang",
+    "category": [
+      "Character",
+      "Earth Character",
+      "Eon's Elite"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Ghost Roaster",
+    "category": [
+      "Character",
+      "Undead Character",
+      "Eon's Elite"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Slam Bam",
+    "category": [
+      "Character",
+      "Water Character",
+      "Eon's Elite"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Voodood",
+    "category": [
+      "Character",
+      "Voodood Character",
+      "Eon's Elite"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Zook",
+    "category": [
+      "Character",
+      "Life Character",
+      "Eon's Elite"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "20",
+    "name": "Progressive Soul Abilities",
+    "category": [
+      "Soul Gems"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Reset Character Trap",
+    "category": [
+      "Trap",
+      "Hard Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": "16",
+    "name": "Swap Character Trap",
+    "category": [
+      "Trap",
+      "Easy Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": "5",
+    "name": "Restart Level Trap",
+    "category": [
+      "Trap",
+      "Hard Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": "8",
+    "name": "Solo Trap",
+    "category": [
+      "Trap",
+      "Hard Trap"
+    ],
+    "trap": true
+  },
+  {
+    "count": 1,
+    "name": "Magic Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Earth Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Tech Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Undead Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Air Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Life Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Water Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dark Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Light Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kaos Traptanium Crystal",
+    "category": [
+      "Traptanium Crystal"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dive-Clops",
+    "category": [
+      "Character",
+      "Water Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Deep Dive Gill grunt",
+    "category": [
+      "Character",
+      "Water Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "6",
+    "name": "Progressive Upgrade",
+    "category": [
+      "Upgrades"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "All Fire Superchargers",
+    "category": [
+      "Element",
+      "Fire Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Water Superchargers",
+    "category": [
+      "Element",
+      "Water Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Earth Superchargers",
+    "category": [
+      "Element",
+      "Earth Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Air Superchargers",
+    "category": [
+      "Element",
+      "Air Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Life Superchargers",
+    "category": [
+      "Element",
+      "Life Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Undead Superchargers",
+    "category": [
+      "Element",
+      "Undead Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Tech Superchargers",
+    "category": [
+      "Element",
+      "Tech Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Magic Superchargers",
+    "category": [
+      "Element",
+      "Magic Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Dark Superchargers",
+    "category": [
+      "Element",
+      "Dark Character"
+    ],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "All Light Superchargers",
+    "category": [
+      "Element",
+      "Light Character"
+    ],
+    "progression_skip_balancing": true
+  }
+]

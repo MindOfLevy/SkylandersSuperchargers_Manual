@@ -1,0 +1,652 @@
+[
+  {
+    "name": "Skylands in Chains",
+    "region": "The Rift To Skylands",
+    "category": [
+      "Chapter",
+      "Chapter 01"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Motley Meadows",
+    "region": "The Rift To Skylands",
+    "category": [
+      "Chapter",
+      "Chapter 02"
+    ],
+    "requires": []
+  },
+  {
+    "region": "The Rift To Skylands",
+    "name": "A Fuel's Errand",
+    "category": [
+      "Chapter",
+      "Chapter 03"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Great Breakout",
+    "region": "The Rift To Skylands",
+    "category": [
+      "Chapter",
+      "Chapter 04"
+    ],
+    "requires": []
+  },
+  {
+    "name": "A Safe Place",
+    "region": "Skylanders Academy",
+    "category": [
+      "Chapter",
+      "Chapter 05"
+    ],
+    "requires": "|Progressive Chapter:2|"
+  },
+  {
+    "name": "Conquered by Kaos",
+    "region": "The Cloudbreather's Crag",
+    "category": [
+      "Chapter",
+      "Chapter 06"
+    ],
+    "requires": "|Progressive Chapter:2|"
+  },
+  {
+    "region": "The Cloudbreather's Crag",
+    "name": "City Under the Sea",
+    "category": [
+      "Chapter",
+      "Chapter 07"
+    ],
+    "requires": "|Progressive Chapter:2|"
+  },
+  {
+    "name": "Scaling the Road",
+    "region": "The Cloudbreather's Crag",
+    "category": [
+      "Chapter",
+      "Chapter 08"
+    ],
+    "requires": "|Progressive Chapter:2|"
+  },
+  {
+    "name": "Temple of the Cloudbreather",
+    "region": "The Cloudbreather's Crag",
+    "category": [
+      "Chapter",
+      "Chapter 09"
+    ],
+    "requires": "|Progressive Chapter:2|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Call Down the Thunder",
+    "category": [
+      "Chapter",
+      "Chapter 10"
+    ],
+    "requires": "|Progressive Chapter:3|"
+  },
+  {
+    "region": "The Cloud Kingdom",
+    "name": "The Brewing Storm",
+    "category": [
+      "Chapter",
+      "Chapter 11"
+    ],
+    "requires": "|Progressive Chapter:3|"
+  },
+  {
+    "name": "All Roads Lead to Ruin",
+    "region": "The Cloud Kingdom",
+    "category": [
+      "Chapter",
+      "Chapter 12"
+    ],
+    "requires": "|Progressive Chapter:3|"
+  },
+  {
+    "region": "The Cloud Kingdom",
+    "name": "Mayhem at the Market",
+    "category": [
+      "Chapter",
+      "Chapter 13"
+    ],
+    "requires": "|Progressive Chapter:3|"
+  },
+  {
+    "name": "Clear Skies Ahead",
+    "region": "The Cloud Kingdom",
+    "category": [
+      "Chapter",
+      "Chapter 14"
+    ],
+    "requires": "|Progressive Chapter:3|"
+  },
+  {
+    "name": "The Land of the Undead",
+    "region": "Skylanders Academy",
+    "category": [
+      "Chapter",
+      "Chapter 15"
+    ],
+    "requires": "|Progressive Chapter:4|"
+  },
+  {
+    "name": "Not As Advertised",
+    "region": "Land of the Undead",
+    "category": [
+      "Chapter",
+      "Chapter 16"
+    ],
+    "requires": "|Progressive Chapter:4|"
+  },
+  {
+    "name": "Upstairs Downstairs Overtheres",
+    "region": "Land of the Undead",
+    "category": [
+      "Chapter",
+      "Chapter 17"
+    ],
+    "requires": "|Progressive Chapter:4|"
+  },
+  {
+    "name": "Eon's Escape",
+    "region": "Land of the Undead",
+    "category": [
+      "Chapter",
+      "Chapter 18"
+    ],
+    "requires": "|Progressive Chapter:4|"
+  },
+  {
+    "name": "Moneybone's Guarantee",
+    "region": "Land of the Undead",
+    "category": [
+      "Chapter",
+      "Chapter 19"
+    ],
+    "requires": "|Progressive Chapter:4|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Reunions",
+    "category": [
+      "Chapter",
+      "Chapter 20"
+    ],
+    "requires": "|Progressive Chapter:5|"
+  },
+  {
+    "name": "Cast a Deadly Spellslamzer",
+    "region": "BattleBrawl Island",
+    "category": [
+      "Chapter",
+      "Chapter 21"
+    ],
+    "requires": "|Progressive Chapter:5|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Book Report",
+    "category": [
+      "Chapter",
+      "Chapter 22"
+    ],
+    "requires": "|Progressive Chapter:6|"
+  },
+  {
+    "name": "The Spell Punk Library",
+    "region": "Spell Punk Library",
+    "category": [
+      "Chapter",
+      "Chapter 23"
+    ],
+    "requires": "|Progressive Chapter:6|"
+  },
+  {
+    "name": "Feathered Friends",
+    "region": "Skylanders Academy",
+    "category": [
+      "Chapter",
+      "Chapter 24"
+    ],
+    "requires": "|Progressive Chapter:7|"
+  },
+  {
+    "region": "Gadfly Glades",
+    "name": "A Teensy Problem",
+    "category": [
+      "Chapter",
+      "Chapter 25"
+    ],
+    "requires": "|Progressive Chapter:7|"
+  },
+  {
+    "name": "Fungi Funhouse",
+    "region": "Gadfly Glades",
+    "category": [
+      "Chapter",
+      "Chapter 26"
+    ],
+    "requires": "|Progressive Chapter:7|"
+  },
+  {
+    "name": "Waterdrop Way",
+    "region": "Gadfly Glades",
+    "category": [
+      "Chapter",
+      "Chapter 27"
+    ],
+    "requires": "|Progressive Chapter:7|"
+  },
+  {
+    "name": "A Display of Knowledge",
+    "region": "Skylanders Academy",
+    "category": [
+      "Chapter",
+      "Chapter 28"
+    ],
+    "requires": "|Progressive Chapter:8|"
+  },
+  {
+    "name": "Fowl Play",
+    "region": "Cap'n Cluck's Chicken HQ",
+    "category": [
+      "Chapter",
+      "Chapter 29"
+    ],
+    "requires": "|Progressive Chapter:8|"
+  },
+  {
+    "name": "Running Afowl",
+    "region": "Cap'n Cluck's Chicken HQ",
+    "category": [
+      "Chapter",
+      "Chapter 30"
+    ],
+    "requires": "|Progressive Chapter:8|"
+  },
+  {
+    "region": "Cap'n Cluck's Chicken HQ",
+    "name": "Cuckoo's Nest",
+    "category": [
+      "Chapter",
+      "Chapter 31"
+    ],
+    "requires": "|Progressive Chapter:8|"
+  },
+  {
+    "region": "Cap'n Cluck's Chicken HQ",
+    "name": "Big Boss Cluck",
+    "category": [
+      "Chapter",
+      "Chapter 32"
+    ],
+    "requires": "|Progressive Chapter:8|"
+  },
+  {
+    "name": "A Titanic Task",
+    "region": "Skylanders Academy",
+    "category": [
+      "Chapter",
+      "Chapter 33"
+    ],
+    "requires": "|Progressive Chapter:9|"
+  },
+  {
+    "region": "Monstrous Isles",
+    "name": "The Last Resort",
+    "category": [
+      "Chapter",
+      "Chapter 34"
+    ],
+    "requires": "|Progressive Chapter:9|"
+  },
+  {
+    "name": "Basalt Basin",
+    "region": "Monstrous Isles",
+    "category": [
+      "Chapter",
+      "Chapter 35"
+    ],
+    "requires": "|Progressive Chapter:9|"
+  },
+  {
+    "name": "Exclusive Shores",
+    "region": "Monstrous Isles",
+    "category": [
+      "Chapter",
+      "Chapter 36"
+    ],
+    "requires": "|Progressive Chapter:9|"
+  },
+  {
+    "region": "Monstrous Isles",
+    "name": "Titanopolis",
+    "category": [
+      "Chapter",
+      "Chapter 37"
+    ],
+    "requires": "|Progressive Chapter:9|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Humble Hero",
+    "category": [
+      "Chapter",
+      "Chapter 38"
+    ],
+    "requires": "|Progressive Chapter:10|"
+  },
+  {
+    "name": "Win, Lose or Glumshanks",
+    "region": "Ridepocalypse Demo Derby",
+    "category": [
+      "Chapter",
+      "Chapter 39"
+    ],
+    "requires": "|Progressive Chapter:10|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Ancient Archives",
+    "category": [
+      "Chapter",
+      "Chapter 40"
+    ],
+    "requires": "|Progressive Chapter:11|"
+  },
+  {
+    "region": "Vault Of The Ancients",
+    "name": "Whispering WInds",
+    "category": [
+      "Chapter",
+      "Chapter 41"
+    ],
+    "requires": "|Progressive Chapter:11|"
+  },
+  {
+    "name": "Riftward Road",
+    "region": "Vault Of The Ancients",
+    "category": [
+      "Chapter",
+      "Chapter 42"
+    ],
+    "requires": "|Progressive Chapter:11|"
+  },
+  {
+    "name": "Slumbering Spires",
+    "region": "Vault Of The Ancients",
+    "category": [
+      "Chapter",
+      "Chapter 43"
+    ],
+    "requires": "|Progressive Chapter:11|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Aerial Ambush",
+    "category": [
+      "Chapter",
+      "Chapter 44"
+    ],
+    "requires": "|Progressive Chapter:12|"
+  },
+  {
+    "name": "Highway Robbery",
+    "region": "The Bandit Train",
+    "category": [
+      "Chapter",
+      "Chapter 45"
+    ],
+    "requires": "|Progressive Chapter:12|"
+  },
+  {
+    "region": "Skylanders Academy",
+    "name": "Gathering of Friends",
+    "category": [
+      "Chapter",
+      "Chapter 46"
+    ],
+    "requires": "|Progressive Chapter:13|"
+  },
+  {
+    "region": "The Sky Eater",
+    "name": "The Sky Eater",
+    "category": [
+      "Chapter",
+      "Chapter 47"
+    ],
+    "requires": "|Progressive Chapter:13|"
+  },
+  {
+    "name": "Grinding Gears",
+    "region": "The Sky Eater",
+    "category": [
+      "Chapter",
+      "Chapter 48"
+    ],
+    "requires": "|Progressive Chapter:13|"
+  },
+  {
+    "name": "Darkest Goo",
+    "region": "The Sky Eater",
+    "category": [
+      "Chapter",
+      "Chapter 49"
+    ],
+    "requires": "|Progressive Chapter:13|"
+  },
+  {
+    "region": "The Sky Eater",
+    "name": "Crush of Kaos",
+    "category": [
+      "Chapter",
+      "Chapter 50"
+    ],
+    "requires": "|Progressive Chapter:13|"
+  },
+  {
+    "region": "The Sky Eater",
+    "name": "Fear and Obey",
+    "victory": true,
+    "category": [
+      "Chapter",
+      "Chapter 51"
+    ],
+    "requires": "|Progressive Chapter:13|"
+  },
+  {
+    "region": "The Rift To Skylands",
+    "name": "Destroy the Catalytic Cyclotron",
+    "category": [
+      "Vehicle Objective",
+      "The Rift To Skylands"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)}"
+  },
+  {
+    "region": "The Rift To Skylands",
+    "name": "Save the Escape Pods",
+    "category": [
+      "Vehicle Objective",
+      "The Rift To Skylands"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)}"
+  },
+  {
+    "region": "The Cloudbreather's Crag",
+    "name": "Destroy Blockages",
+    "category": [
+      "Vehicle Objective",
+      "The Cloudbreather's Crag"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:2|)"
+  },
+  {
+    "region": "The Cloudbreather's Crag",
+    "name": "Save the Temple",
+    "category": [
+      "Vehicle Objective",
+      "The Cloudbreather's Crag"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:2|)"
+  },
+  {
+    "region": "The Cloud Kingdom",
+    "name": "Destroy the Storm Sequencer",
+    "category": [
+      "Vehicle Objective",
+      "The Cloud Kingdom"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:3|)"
+  },
+  {
+    "region": "The Cloud Kingdom",
+    "name": "Destroy the Transport Ships",
+    "category": [
+      "Vehicle Objective",
+      "The Cloud Kingdom"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:3|)"
+  },
+  {
+    "region": "Land of the Undead",
+    "name": "Destroy Blockage",
+    "category": [
+      "Vehicle Objective",
+      "Land of the Undead"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:4|)"
+  },
+  {
+    "region": "Land of the Undead",
+    "name": "Help Prisoners Escape",
+    "category": [
+      "Vehicle Objective",
+      "Land of the Undead"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:4|)"
+  },
+  {
+    "region": "Spell Punk Library",
+    "name": "Escape the Hydra",
+    "category": [
+      "Vehicle Objective",
+      "Spell Punk Library"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:6|)"
+  },
+  {
+    "region": "Spell Punk Library",
+    "name": "Destroy the Mothership",
+    "category": [
+      "Vehicle Objective",
+      "Spell Punk Library"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:6|)"
+  },
+  {
+    "region": "Gadfly Glades",
+    "name": "Save the Twitterpillars",
+    "category": [
+      "Vehicle Objective",
+      "Gadfly Glades"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:7|)"
+  },
+  {
+    "region": "Gadfly Glades",
+    "name": "Shut Off the Water",
+    "category": [
+      "Vehicle Objective",
+      "Gadfly Glades"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:7|)"
+  },
+  {
+    "region": "Cap'n Cluck's Chicken HQ",
+    "name": "Drop Feed in Water Supply",
+    "category": [
+      "Vehicle Objective",
+      "Cap'n Cluck's Chicken HQ"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:8|)"
+  },
+  {
+    "region": "Cap'n Cluck's Chicken HQ",
+    "name": "Defeat CockadoodleDoom",
+    "category": [
+      "Vehicle Objective",
+      "Cap'n Cluck's Chicken HQ"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:8|)"
+  },
+  {
+    "region": "Monstrous Isles",
+    "name": "Catch Beachcomber",
+    "category": [
+      "Vehicle Objective",
+      "Monstrous Isles"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:9|)"
+  },
+  {
+    "region": "Monstrous Isles",
+    "name": "Destroy Clam Bunkers",
+    "category": [
+      "Vehicle Objective",
+      "Monstrous Isles"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:9|)"
+  },
+  {
+    "region": "Vault Of The Ancients",
+    "name": "Power the Core",
+    "category": [
+      "Vehicle Objective",
+      "Vault of the Ancients"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:11|)"
+  },
+  {
+    "region": "Vault Of The Ancients",
+    "name": "Ring the Chimes",
+    "category": [
+      "Vehicle Objective",
+      "Vault of the Ancients"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:11|)"
+  },
+  {
+    "region": "The Sky Eater",
+    "name": "Hunt and Destroy the Hydra",
+    "category": [
+      "Vehicle Objective",
+      "The Sky Eater"
+    ],
+    "requires": "({YamlEnabled(sea_vehicles)} and |Progressive Chapter:13|)"
+  },
+  {
+    "name": "Infiltrate Sky Eater",
+    "region": "The Sky Eater",
+    "category": [
+      "Vehicle Objective",
+      "The Sky Eater"
+    ],
+    "requires": "({YamlEnabled(air_vehicles)} and |Progressive Chapter:13|)"
+  },
+  {
+    "name": "100% Completion",
+    "region": "Skylanders Academy",
+    "victory": true,
+    "category": [
+      "Chapter",
+      "Completion"
+    ],
+    "requires": []
+  }
+]

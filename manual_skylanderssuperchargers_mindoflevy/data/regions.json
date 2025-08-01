@@ -1,0 +1,84 @@
+{
+  "The Rift To Skylands": {
+    "starting": true,
+    "connects_to": [
+      "The Cloudbreather's Crag"
+    ],
+    "requires": []
+  },
+  "The Cloudbreather's Crag": {
+    "connects_to": [
+      "The Cloud Kingdom"
+    ],
+    "requires": "|Progressive Chapter:2|"
+  },
+  "The Cloud Kingdom": {
+    "connects_to": [
+      "Land of the Undead"
+    ],
+    "requires": "|Progressive Chapter:3|"
+  },
+  "Land of the Undead": {
+    "connects_to": [
+      "BattleBrawl Island"
+    ],
+    "requires": "|Progressive Chapter:4|"
+  },
+  "BattleBrawl Island": {
+    "connects_to": [
+      "Spell Punk Library"
+    ],
+    "requires": "|Progressive Chapter:5|"
+  },
+  "Spell Punk Library": {
+    "connects_to": [
+      "Gadfly Glades"
+    ],
+    "requires": "|Progressive Chapter:6|"
+  },
+  "Gadfly Glades": {
+    "connects_to": [
+      "Cap'n Cluck's Chicken HQ"
+    ],
+    "requires": "|Progressive Chapter:7|"
+  },
+  "Cap'n Cluck's Chicken HQ": {
+    "connects_to": [
+      "Monstrous Isles"
+    ],
+    "requires": "|Progressive Chapter:8|"
+  },
+  "Monstrous Isles": {
+    "connects_to": [
+      "Ridepocalypse Demo Derby"
+    ],
+    "requires": "|Progressive Chapter:9|"
+  },
+  "Ridepocalypse Demo Derby": {
+    "connects_to": [
+      "Vault Of The Ancients"
+    ],
+    "requires": "|Progressive Chapter:10|"
+  },
+  "Vault Of The Ancients": {
+    "connects_to": [
+      "The Bandit Train"
+    ],
+    "requires": "|Progressive Chapter:11|"
+  },
+  "The Bandit Train": {
+    "connects_to": [
+      "The Sky Eater"
+    ],
+    "requires": "|Progressive Chapter:12|"
+  },
+  "The Sky Eater": {
+    "connects_to": [],
+    "requires": "|Progressive Chapter:13|"
+  },
+  "Skylanders Academy": {
+    "starting": true,
+    "connects_to": [],
+    "requires": []
+  }
+}

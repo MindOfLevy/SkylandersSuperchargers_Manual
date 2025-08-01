@@ -1,0 +1,26 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SkylandersSuperchargers",
+  "creator": "MindOfLevy",
+  "filler_item_name": "Chompy",
+  "starting_items": [
+    {
+      "items": [
+        "Progressive Chapter"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Character"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Land Vehicle"
+      ],
+      "random": 1
+    }
+  ]
+}
